@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073324082311",
+    "project_id": "aarogya-a187c",
+    "storage_bucket": "aarogya-a187c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073324082311:android:598e166f24e95929132422",
+        "android_client_info": {
+          "package_name": "com.aarogyaforworkers.aarogya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073324082311-sppatcsonkgtd242tahdh28u6cibg67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnArYZrWh-IELFZD0oHp6A1WXX6PPQVg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073324082311-sppatcsonkgtd242tahdh28u6cibg67e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

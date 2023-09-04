@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    val defDark = Color(0xFF030C44)
+    val defLight = Color(0xFF0FF9BA)
+
+    <color name="defDark">#030C44</color>
+    <color name="defLight">#0FF9BA</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+
+    <color name="darkGreen">#008975</color>
+    <color name="pestoGreen">#00AA8D</color>
+    <color name="lightGreen">#00BF9A</color>
+
+    <color name="teal200">#80CBC4</color>
+    <color name="teal100">#B2DFDB</color>
+    <color name="teal50">#E0F2F1</color>
+
+    <color name="omron">#0067B4</color>
+    <color name="bluetooth">#0C69FA</color>
+    <color name="bloodPressureMonitor">#E91E63</color>
+    <color name="lightBloodPressureMonitor">#F6DEF5</color>
+    <color name="weightScale">#FFAB00</color>
+    <color name="lightWeightScale">#FFE082</color>
+    <color name="bodyCompositionMonitor">#2ECC71</color>
+    <color name="lightBodyCompositionMonitor">#DFF6E0</color>
+    <color name="pulseOximeter">#00A4E9</color>
+    <color name="lightPulseOximeter">#DCF2FB</color>
+    <color name="thermometer">#990099</color>
+    <color name="lightThermometer">#cdade5</color>
+    <color name="colorDivider">#DDDDDD</color>
+
+    <color name="color_primary">#263238</color>
+    <color name="color_primary_dark">#14171a</color>
+    <color name="color_primary_light">#CFD8DC</color>
+    <color name="color_accent">#3498DB</color>
+    <color name="color_primary_text">#212121</color>
+    <color name="color_secondary_text">#757575</color>
+    <color name="color_icons">#FFFFFF</color>
+    <color name="color_divider">#BDBDBD</color>
+
+    <color name="color_dav_disabled">#60000000</color>
+
+    <color name="red">#B21919</color>
+    <color name="pink">#e91e63</color>
+    <color name="orange">#E74C3C</color>
+    <color name="green">#2ECC71</color>
+    <color name="purple">#8E44AD</color>
+    <color name="yellow">#FF8F00</color>
+    <color name="blue">#303F9F</color>
+    <color name="sky_blue">#3498DB</color>
+    <color name="dark_green">#007F4C</color>
+    <color name="pastel_pink">#F6DEF5</color>
+    <color name="pastel_orange">#F3DBD0</color>
+    <color name="pastel_green">#DFF6E0</color>
+    <color name="dark_grey">#888888</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="table_header_background">#757575</color>
+    <color name="table_header_text">#FFFFFF</color>
+    <color name="color_title_disabled">#80aeaeae</color>
+    <color name="color_summary_disabled">#80cfcfcf</color>
+    <color name="color_registerd_disabled">#90FFFFFF</color>
+
+    // pc300 - sdk
+
+    <!-- main activity color -->
+    <color name="color_main_red">#ff0000</color>
+    <color name="color_main_blue">#0000ff</color>
+    <color name="color_main_green">#00ff00</color>
+    <color name="color_main_black">#000000</color>
+    <color name="color_main_white">#ffffff</color>
+    <color name="color_main_histogram1">#1dc615</color>
+    <color name="color_main_histogram2">#12a40b</color>
+    <color name="color_main_histogram3">#2c39e3</color>
+    <color name="color_main_histogram4">#fb002f</color>
+    <color name="color_main_histogram5">#cc092e</color>
+    <color name="color_main_histogram6">#960823</color>
+    <color name="title_bg_green">#17970a</color>
+    <color name="data_sys">#0da4a2</color>
+    <color name="data_dia">#0da4a2</color>
+    <color name="data_spo2">#b939bb</color>
+    <color name="data_pr">#0a7b14</color>
+    <color name="data_temp">#898b0a</color>
+    <color name="data_glu">#898b0a</color>
+    <color name="main_menu_item_normal">#424242</color>
+    <color name="main_menu_item_pressed">#9db457</color>
+    <color name="main_item_normal">#ffffff</color>
+    <color name="main_item_pressed">#c1defc</color>
+    <color name="main_item_text_focus">#3e3e3e</color>
+    <color name="listlayout_normal">#f0f0f0</color>
+    <color name="listlayout_pressed">#22d411</color>
+    <color name="gridviewbg">#fff</color>
+    <color name="gridviewselectbg">#ddd</color>
+    <color name="wavebackground">#e8e8e8</color>
+    <color name="realplay_bg_0">#05adaf</color>
+    <color name="realplay_bg_1">#0d7dfc</color>
+    <color name="realplay_bg_2">#05af55</color>
+    <color name="background_green">#17970a</color>
+    <color name="background_white_a">#77ffffff</color>
+    <color name="set_item_normal">#fff</color>
+    <color name="set_item_pressed">#d8fdec</color>
+    <color name="playback_child_item_pressed">#eae9e9</color>
+    <color name="playback_child_item_normal">#f3f3f3</color>
+    <color name="playback_rect_bg">#77a40b</color>
+    <color name="data_ua">#854b0a</color>
+    <color name="data_chol">#398b0a</color>
+
+
+</resources>

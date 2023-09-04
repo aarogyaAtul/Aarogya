@@ -1,0 +1,108 @@
+{
+  "auth": {
+    "aarogyaforworkers5eba0558": {
+      "customAuth": true,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_allowUnauthenticatedIdentities": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    },
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_authRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    },
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_authRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    },
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_identityPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    },
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_identityPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    },
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    },
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_unauthRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    },
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_unauthRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    },
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    },
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    },
+    "AMPLIFY_auth_aarogyaforworkers5eba0558_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "aarogyaforworkers5eba0558"
+        }
+      ]
+    }
+  },
+  "storage": {
+    "s337d502a0": {
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "S3"
+    }
+  }
+}

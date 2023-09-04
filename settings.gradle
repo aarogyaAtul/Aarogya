@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        maven { url 'https://jitpack.io'}
+        mavenCentral()
+    }
+}
+rootProject.name = "Aarogya"
+include ':app'
+include ':app:AwsAuth'
+include ':app:AwsAPIs'
+include ':app:omronsdk'
+include ':vico'
